@@ -84,7 +84,7 @@
 .widget ul li a {
   display: block;
   padding: 5px 6px;
-  color: #fff;
+  color: rgb(250, 250, 250);
   cursor: pointer;
   text-align: center;
   border-bottom: 1px solid #2cd5ca;
